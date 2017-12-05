@@ -1,0 +1,19 @@
+body .darken-2{
+	background-color: #F78E69;
+	overflow:auto; 
+	height:200px
+}
+
+.responsive-img {
+	width:100%;
+}
+
+.green {
+	min-height:400px
+}
+
+.tres {
+	width: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
